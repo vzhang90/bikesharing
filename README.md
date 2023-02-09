@@ -15,15 +15,15 @@ This tableau story conveys 8 visualiations to help demonstrate bike trip analysi
 Respective to the order of captions within this [Tableau story for Bikesharing trip analysis](https://public.tableau.com/app/profile/vincent.zhang3409/viz/BikesharingTripAnalysis/TripAnalysis?publish=yes) in accordance with worksheet visualizations presented in the story:
 >*visualizations not displayed in this README.md file because of clutter, please use [Tableau story visualizations](https://public.tableau.com/app/profile/vincent.zhang3409/viz/BikesharingTripAnalysis/TripAnalysis?publish=yes) alongside*
 
-1) **Checkout Time for all Users
+1) **Checkout Time for all Users**
    - Line graph displaying number of bikes checked out by duration for all users
    - Line graph  can be filtered by the hour
-2) **Checkout Times by Gender
+2) **Checkout Times by Gender**
    - Line graph additionally displaying the number of bikes that are checked out by duration for each gender by the hour
    - Line graph can be filtered by the hour and gender
-3) **Trips by weekday for each Hour
+3) **Trips by weekday for each Hour**
    - Heatmpap created showing the number of bike trips for each hour of each day of the week
-4) **Gender Breakdwon
+4) **Gender Breakdown**
    - Pie Chart displaying trip analysis by only gender cohorts 
 5) **Trips by Gender (Weekday per Hour)
    - Heatmap created additionally showing the number of bike trips by gender for each hour of each day of the week
