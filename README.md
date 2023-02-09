@@ -11,6 +11,7 @@ From Tableau, a set of visualizations were created to present New York City's Ci
 ## Results
 This tableau story conveys 8 visualiations to help demonstrate bike trip analysis for a pitch to convince investors that a bike-sharing program in Des Moines is a solid business proposal.  
 
+
 Respective to the order of captions within this [Tableau story for Bikesharing trip analysis](https://public.tableau.com/app/profile/vincent.zhang3409/viz/BikesharingTripAnalysis/TripAnalysis?publish=yes) in accordance with worksheet visualizations presented in the story:
 >*visualizations not displayed in this README.md file because of clutter, please use [Tableau story visualizations](https://public.tableau.com/app/profile/vincent.zhang3409/viz/BikesharingTripAnalysis/TripAnalysis?publish=yes) alongside*
 
