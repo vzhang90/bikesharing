@@ -2,8 +2,9 @@
 [Bikesharing Trip Analysis Story visualizations](https://public.tableau.com/app/profile/vincent.zhang3409/viz/BikesharingTripAnalysis/TripAnalysis?publish=yes)
 
 ## Overview of Trip Analysis
-From tableau, a set of visualizations are created based on processed csv file from the <code>201908-citibike-tripdata.csv.zip</code> of the [Citi Bike System Data Page](https://www.citibikenyc.com/system-data). 
-- The new csv file imported into Tableau's Bikesharing Trip Analysis will be exported from the dataframe created with Pandas to change the "tripduration" column from an integer to a datetime datatype 
+From Tableau, a set of visualizations were created based on processed csv file from the <code>201908-citibike-tripdata.csv.zip</code> of the [Citi Bike System Data Page](https://www.citibikenyc.com/system-data). 
+- The new csv file imported into Tableau's Bikesharing Trip Analysis was from a dataframe created with Pandas to change the "tripduration" column from an integer to a datetime datatype 
+- Utilizing this new csv file processed from the [jupyter file](https://github.com/vzhang90/bikesharing/blob/main/NYC_CitiBike_Challenge.ipynb), a Bike Ttrip Analysis story is created in Tableau with graphical representations that are presented in an ordered fashion to help discern overall sentiment and marginal benefits based on cohorts with subsequent additional filters to expand upon certain visualizations.
 
 
 ## Results
