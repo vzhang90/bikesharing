@@ -12,7 +12,7 @@ This tableau story conveys 7 visualiations to help demonstrate bike trip analysi
 Respective to the order of captions in the story in accordance with worksheet visualizations presented in the story:
 1) Checkout Time for all Users (filtered by hour)
    - Line graph displaying number of bikes checked out by duration for all users
-   - Line Graph visualization can be filtered by the hour
+   - Line graph  can be filtered by the hour
 2) Checkout Times by Gender (filtered by hour & gender)
    - Line graph additionally displaying the number of bikes that are checked out by duration for each gender by the hour
    - Line graph can be filtered by the hour and gender
