@@ -35,4 +35,4 @@ Respective to the order of captions within this Tableau story [Bikesharing Trip 
 ## Summary
 The provided visualizations show a direct positive correlation in number of bikes checked-out with male genders who are subscribers averaging 6 minutes trip duration during weekday work-related morning and afternoon rushours (around 7am to 8am as well as 5pm to 6pm peak).
 
-This trip analysis can be further investiaged with tableau visualizations if  
+This trip analysis can be further investiaged with tableau visualizations if graphically representing the trip distance and duration based on age & gender.
