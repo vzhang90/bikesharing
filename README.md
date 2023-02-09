@@ -37,6 +37,6 @@ Respective to the order of captions within this [Tableau story for Bikesharing t
     - Horiozontal Bar Chart displaying August Peak Hours of NYC's CitiBike sharing
   
 ## Summary
-The provided visualizations show a direct positive correlation in number of bikes checked-out with male genders who are subscribers averaging 6 minutes trip duration during weekday work-related morning and afternoon rushours (around 7am to 8am as well as 5pm to 6pm peak).
+The provided visualizations show a direct positive correlation in number of bikes checked-out with male genders who are subscribers averaging 6 minutes trip duration during weekday work-related morning and afternoon rush hours (around 7am to 8am as well as 5pm to 6pm peak).
 
 This trip analysis can be further investiaged with tableau visualizations if graphically representing 1) the trip distance and duration filtered based on age as well as gender and 2) displaying additional line graph with the same metrics as above created heatmaps to picture the quantitative relative differences easier.
