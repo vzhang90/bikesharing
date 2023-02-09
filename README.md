@@ -14,13 +14,13 @@ Respective to the order of captions in the story in accordance with worksheet vi
    - Line graph displaying number of bikes checked out by duration for all users
    - Line Graph visualization can be filtered by the hour
 2) Checkout Times by Gender (filtered by hour & gender)
-  - Line graph additionally displaying the number of bikes that are checked out by duration for each gender by the hour
-  - Line graph can be filtered by the hour and gender
+   - Line graph additionally displaying the number of bikes that are checked out by duration for each gender by the hour
+   - Line graph can be filtered by the hour and gender
 3) Trips by weekday for each Hour
-  - Heatmpap created showing the number of bike trips for each of of each day of the week
+   - Heatmpap created showing the number of bike trips for each of of each day of the week
 4) Gender Breakdwon
-  - Heatmap created additionally showing the number of bike trips by gender for each hour of each day of the week
-  - Heatmap can be filtered by gender
+   - Heatmap created additionally showing the number of bike trips by gender for each hour of each day of the week
+   - Heatmap can be filtered by gender
 6) Trips by Gender (Weekday per Hour)
 7) Customers
 8) User Trips by Gender by Weekday
