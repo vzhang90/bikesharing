@@ -7,7 +7,7 @@ From tableau, a set of visualizations are created based on processed csv file fr
 
 
 ## Results
-This tableau story conveys 7 visualiations to help demonstrate bike trip analysis for a pitch to convince investors that a bike-sharing program in Des Moines is a solid business proposal.  
+This tableau story conveys 8 visualiations to help demonstrate bike trip analysis for a pitch to convince investors that a bike-sharing program in Des Moines is a solid business proposal.  
 
 Respective to the order of captions with this Tableau story [Bikesharing Trip Analysis Story visualizations](https://public.tableau.com/app/profile/vincent.zhang3409/viz/BikesharingTripAnalysis/TripAnalysis?publish=yes) in accordance with worksheet visualizations presented in the story:
 1) Checkout Time for all Users (filtered by hour)
