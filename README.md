@@ -20,13 +20,16 @@ Respective to the order of captions within this Tableau story [Bikesharing Trip 
 3) Trips by weekday for each Hour
    - Heatmpap created showing the number of bike trips for each of of each day of the week
 4) Gender Breakdwon
-5) Trips by Gender (Weekday per Hour)
+   - Pie Chart displaying trip analysis by only gender cohorts 
+6) Trips by Gender (Weekday per Hour)
    - Heatmap created additionally showing the number of bike trips by gender for each hour of each day of the week
    - Heatmap can be filtered by gender
-6) Customers
-7) User Trips by Gender by Weekday
+7) Customers
+   - Pie Chart displaying trip analysis by only customer cohorts
+9) User Trips by Gender by Weekday
    - Heatmap further generated to show the number of bike trips for each type of user & gender for each day of the week
    - Heatmap can only filter by user & gender
-8) August Peak Hours
+10) August Peak Hours
+   - Horiozontal Bar Chart displaying August Peak Hours of number of bike trips
 
 ## Summary
