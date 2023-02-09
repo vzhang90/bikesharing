@@ -25,15 +25,15 @@ Respective to the order of captions within this [Tableau story for Bikesharing t
    - Heatmpap created showing the number of bike trips for each hour of each day of the week
 4) **Gender Breakdown**
    - Pie Chart displaying trip analysis by only gender cohorts 
-5) **Trips by Gender (Weekday per Hour)
+5) **Trips by Gender (Weekday per Hour)**
    - Heatmap created additionally showing the number of bike trips by gender for each hour of each day of the week
    - Heatmap can be filtered by gender
-6) **Customers
+6) **Customers**
    - Pie Chart displaying trip analysis by only customer cohorts
-7) **User Trips by Gender by Weekday
+7) **User Trips by Gender by Weekday**
    - Heatmap further generated to show the number of bike trips for each type of user & gender for each day of the week
    - Heatmap can only filter by user & gender
-8) **August Peak Hours
+8) **August Peak Hours**
     - Horiozontal Bar Chart displaying August Peak Hours of NYC's CitiBike sharing
   
 ## Summary
