@@ -1,5 +1,5 @@
 # Bikesharing Trip Analsis Tableau Story Visualization
-[Bikesharing Trip Analysis Story visualizations](https://public.tableau.com/app/profile/vincent.zhang3409/viz/BikesharingTripAnalysis/TripAnalysis?publish=yes)
+[Bikesharing Trip Analysis Tableau Public Story](https://public.tableau.com/app/profile/vincent.zhang3409/viz/BikesharingTripAnalysis/TripAnalysis?publish=yes)
 
 ## Overview of Trip Analysis
 From Tableau, a set of visualizations were created based on processed csv file from the <code>201908-citibike-tripdata.csv.zip</code> of the [Citi Bike System Data Page](https://www.citibikenyc.com/system-data). 
