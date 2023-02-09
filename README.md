@@ -19,13 +19,13 @@ Respective to the order of captions in the story in accordance with worksheet vi
 3) Trips by weekday for each Hour
    - Heatmpap created showing the number of bike trips for each of of each day of the week
 4) Gender Breakdwon
+5) Trips by Gender (Weekday per Hour)
    - Heatmap created additionally showing the number of bike trips by gender for each hour of each day of the week
    - Heatmap can be filtered by gender
-5) Trips by Gender (Weekday per Hour)
+6) Customers
+7) User Trips by Gender by Weekday
    - Heatmap further generated to show the number of bike trips for each type of user & gender for each day of the week
    - Heatmap can only filter by user & gender
-7) Customers
-8) User Trips by Gender by Weekday
-9) August Peak Hours
+8) August Peak Hours
 
 ## Summary
