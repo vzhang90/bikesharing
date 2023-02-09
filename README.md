@@ -13,7 +13,7 @@ This tableau story conveys 8 visualiations to help demonstrate bike trip analysi
 
 Respective to the order of captions within this Tableau story [Bikesharing Trip Analysis Story visualizations](https://public.tableau.com/app/profile/vincent.zhang3409/viz/BikesharingTripAnalysis/TripAnalysis?publish=yes) in accordance with worksheet visualizations presented in the story:
 
-(visualizations not displayed in this README.md file because of clutter, please use [Bikesharing Trip Analysis Story visualizations](https://public.tableau.com/app/profile/vincent.zhang3409/viz/BikesharingTripAnalysis/TripAnalysis?publish=yes) alongside)
+(visualizations not displayed in this README.md file because of clutter, please use [Tableau story visualizations](https://public.tableau.com/app/profile/vincent.zhang3409/viz/BikesharingTripAnalysis/TripAnalysis?publish=yes) alongside)
 1) Checkout Time for all Users (filtered by hour)
    - Line graph displaying number of bikes checked out by duration for all users
    - Line graph  can be filtered by the hour
