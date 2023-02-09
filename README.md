@@ -22,7 +22,7 @@ Respective to the order of captions within this [Tableau story for Bikesharing t
    - Line graph additionally displaying the number of bikes that are checked out by duration for each gender by the hour
    - Line graph can be filtered by the hour and gender
 3) Trips by weekday for each Hour
-   - Heatmpap created showing the number of bike trips for each of of each day of the week
+   - Heatmpap created showing the number of bike trips for each hour of each day of the week
 4) Gender Breakdwon
    - Pie Chart displaying trip analysis by only gender cohorts 
 6) Trips by Gender (Weekday per Hour)
