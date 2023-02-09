@@ -7,5 +7,6 @@ From tableau, a set of visualizations are created based on processed csv file fr
 
 
 ## Results
+This tableau story conveys 7 visualiations to help demonstrate bike trip analysis for a pitch to convince investors that a bike-sharing program in Des Moines is a solid business proposal.
 
 ## Summary
