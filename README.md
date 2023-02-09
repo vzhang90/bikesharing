@@ -30,6 +30,6 @@ Respective to the order of captions within this Tableau story [Bikesharing Trip 
    - Heatmap further generated to show the number of bike trips for each type of user & gender for each day of the week
    - Heatmap can only filter by user & gender
 10) August Peak Hours
-   - Horiozontal Bar Chart displaying August Peak Hours of number of bike trips
+   - Horiozontal Bar Chart displaying August Peak Hours of NYC's CitiBike sharing.
 
 ## Summary
